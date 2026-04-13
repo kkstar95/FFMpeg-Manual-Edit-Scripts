@@ -1,0 +1,1 @@
+ffmpeg -f concat -safe 0 -i list.txt -fflags +genpts -c copy output.mp4
