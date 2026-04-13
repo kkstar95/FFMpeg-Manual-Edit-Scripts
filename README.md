@@ -4,7 +4,11 @@ Video editing done manually on 100% GPU side with FFMPEG :ghost: maximum speed v
 I done video editing before for some videos but i hate you need strong CPU for video editing on Windows.My only two options was either 100% crank up my CPU or install linux and use GPU encodig. Video editing on Windows is very limited on GPU (not free as well) so this is the third alternative.
 
 > [!NOTE]
-This is a zero encode process thats why you need at least a decade old CPU (just enough to run) but not so garbage GPU and SSD. So as long as your computer is stronger than a calculator you dont need to wait for hours to edit a video.
+This is a zero encode process thats why you need at least a decade old CPU (just enough to run) but not so garbage GPU and SSD. So as long as your computer is stronger than a calculator you dont need to wait for hours to edit a video.<
+
+> [!IMPORTANT]
+You can run **Download (FFMpeg).cmd** file daily it will check date of your .zip file date and update if its outdated (DAILY)
+> 
 
 # You Need
 ```
