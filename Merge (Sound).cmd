@@ -1,0 +1,1 @@
+ffmpeg -i no_sound.mp4 -i sound.wav -c:v copy -c:a aac merged_video.mp4
