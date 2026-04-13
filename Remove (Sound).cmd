@@ -1,0 +1,1 @@
+ffmpeg -i output.mp4 -an -c:v copy no_sound.mp4
